@@ -88,3 +88,5 @@ Memory initialization via external file
 Byte or word enable features
 
 This RAM block can be easily integrated into a processor datapath or used in FPGA projects for embedded computing.
+
+**OUTPUT**: ![Image](https://github.com/user-attachments/assets/a8e2672e-eb12-44f5-8ea2-ee94fc0fbb3f)
